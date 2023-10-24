@@ -1,0 +1,6 @@
+framework module Pods_Avonya {
+  umbrella header "Pods-Avonya-umbrella.h"
+
+  export *
+  module * { export * }
+}
